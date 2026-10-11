@@ -1,0 +1,9 @@
+sample output:
+
+Enter a paragraph: swathi is doing internship in veda technologies.She is doing her internship on python.
+
+--- Paragraph Analysis ---
+Characters: 86
+Words: 13
+Sentences: 2
+Spaces: 12
